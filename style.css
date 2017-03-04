@@ -1,0 +1,20 @@
+.box {
+  border:1px solid black;
+  height:100px;
+  width:100px;
+  display:inline-block;
+}
+.purple{background-color:purple} 
+.purple:hover{background-color: violet}
+  
+.green{background-color:green;}
+.green:hover{background-color:yellowgreen;}
+
+.red{background-color:red;}
+.red:hover{background-color:salmon;}
+  
+.yellow{background-color:yellow;}  
+.yellow:hover{background-color: gold;}
+  
+.blue{background-color:blue;}
+.blue:hover{background-color: cyan;}
