@@ -4,35 +4,35 @@
   width: 100px;
   display: inline-block;
 }
-.purple{
+purple{
   background-color: purple;
 } 
 .purple:hover{
   background-color: violet;
 }
   
-.green{
+green{
   background-color: green;
 }
 .green:hover{
   background-color: yellowgreen;
 }
 
-.red{
+red{
   background-color: red;
 }
 .red:hover{
   background-color: salmon;
 }
   
-.yellow{
+yellow{
   background-color: yellow;
 }  
 .yellow:hover{
   background-color: gold;
 }
   
-.blue{
+blue{
   background-color:blue;
 }
 .blue:hover{
